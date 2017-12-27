@@ -6,4 +6,4 @@ Git has a mutable index called stage.
 3.haha
 4.连接远程git服务器后的第一次提交记录
 5.在dev分支上添加了这一行
-6.在主分支上我修改了这一行
+6.在主分支上为了解决冲突我修改了这一行
